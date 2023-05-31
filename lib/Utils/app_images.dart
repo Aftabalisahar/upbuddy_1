@@ -1,0 +1,36 @@
+class AppImages {
+  static const String androidIcon = 'assets/Images/android_loading.png';
+  static const String upWork = 'assets/Images/upwork.png';
+  static const String loadingGif = 'assets/Images/loading.gif';
+  static const String upWorkRounded = 'assets/Images/upwork_rounded.png';
+  static const String freelancer = 'assets/Images/freelancer_logo.png';
+  static const String peoplePerHour = 'assets/Images/pph.png';
+  static const String upAlert = 'assets/Images/upalert.png';
+  static const String menuIcon = 'assets/Images/menu.png';
+  static const String chatIcon = 'assets/Images/notification.png';
+  static const String comingSoon = 'assets/Images/coming_soon.png';
+  static const String compassIcon = 'assets/Images/compass.png';
+  static const String notificationBell = 'assets/Images/bell_icon.png';
+  static const String circleGroup = 'assets/Images/circlegroup.png';
+  static const String circleGroup1 = 'assets/Images/circlegroup1.png';
+  static const String circleGroup2 = 'assets/Images/circlegroup_pph.png';
+  static const String tickImageGreen = 'assets/Images/tick_circle.png';
+  static const String tickImageBlue = 'assets/Images/tick_circle_blue.png';
+  static const String tickImageOrange = 'assets/Images/tick_circle_orange.png';
+  static const String vectorStar = 'assets/Images/vector_star.png';
+  static const String vectorStarOrange = 'assets/Images/vector_star_orange.png';
+  static const String vectorArrow = 'assets/Images/arrow_vector.png';
+  static const String vectorArrowOrange = 'assets/Images/arrow_vector_orange.png';
+  static const String googleLogo = 'assets/Images/google_logo.png';
+  static const String crossIcon = 'assets/Images/cross.png';
+  static const String filterIcon = 'assets/Images/filter_icon.png';
+  static const String giftIcon = 'assets/Images/gift_yellow_victor.png';
+  static const String slide1 = 'assets/Images/upwork_c.png';
+  static const String slide2 = 'assets/Images/push_notification.jpg';
+  static const String slide3 = 'assets/Images/job_proposal.jpg';
+  static const String slide4 = 'assets/Images/ai_just.jpg';
+  static const String workingOn = 'assets/Images/working_on.png';
+  static const String whatsAppIcon = 'assets/Images/whatsapp_icon.png';
+  static const String facebookIcon = 'assets/Images/facebook_icon.png';
+  static const String facebookLogo = 'assets/Images/facebook_logo.png';
+}
